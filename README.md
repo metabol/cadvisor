@@ -23,7 +23,7 @@ sudo docker run \
   google/cadvisor:latest
 ```
 
-cAdvisor is now running (in the background) on `http://localhost:8080`. The setup includes directories with Docker state cAdvisor needs to observe.
+cAdvisor is now running (in the background) on `http://localhost:8881`. The setup includes directories with Docker state cAdvisor needs to observe.
 
 **Note**: If you're running on CentOS, Fedora, RHEL, or are using LXC take a look at our [running instructions](docs/running.md).
 
